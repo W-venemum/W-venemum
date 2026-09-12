@@ -2,7 +2,7 @@ I'm Varun Gowda 👋
 
 I'm a developer who enjoys building useful things, experimenting with AI, and learning by actually making projects.
 
-I'm still growing as a software developer, and most of what I learn comes from building, breaking, fixing, and improving real projects. I'm especially interested in **AI, full-stack development, automation, and solving practical problems with software.
+I'm still growing as a software developer, and most of what I learn comes from building, breaking, fixing, and improving real projects. I'm especially interested in AI, full-stack development, automation, and solving practical problems with software.
 
 Some of My Projects
 
